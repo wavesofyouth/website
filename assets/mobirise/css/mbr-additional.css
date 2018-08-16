@@ -4848,7 +4848,16 @@ body {
   color: #cccccc !important;
 }
 .cid-qZyhIWRsTG {
-  background-image: url("../../../assets/images/still-19-1440x1088.jpg");
+  background-image: url("../../../assets/images/still-9-1440x1088.jpg");
+}
+.cid-qZyhIWRsTG H1 {
+  text-align: left;
+}
+.cid-qZyhIWRsTG H3 {
+  text-align: center;
+}
+.cid-qZyhIWRsTG P {
+  text-align: center;
 }
 .cid-r03WKrrq4l {
   padding-top: 30px;
