@@ -24,7 +24,7 @@
         "display4Font": "Josefin Sans",
         "display4Size": "1.15",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
