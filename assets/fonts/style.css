@@ -1,4 +1,8 @@
 @font-face {
-   font-family: 'Cooper Black Regular';
-   src: url('Cooper Black Regular/font.ttf');
+   font-family: 'Roboto-Bold';
+   src: url('Roboto-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Roboto-Medium';
+   src: url('Roboto-Medium/font.ttf');
 }
