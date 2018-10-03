@@ -5835,10 +5835,10 @@ body {
   color: #cccccc !important;
 }
 .cid-r5pzWIHuPh {
-  background-image: url("../../../assets/images/back-1920x1080.jpg");
+  background-image: url("../../../assets/images/still-19-1440x1088.jpg");
 }
 .cid-r5md9rRWN4 {
-  background-image: url("../../../assets/images/still-4-1440x1088.jpg");
+  background: linear-gradient(45deg, #000000, #000000);
 }
 @media (min-width: 992px) {
   .cid-r5md9rRWN4 .mbr-figure {
@@ -5858,7 +5858,7 @@ body {
   text-align: left;
 }
 .cid-r5pzMVo5WC {
-  background-image: url("../../../assets/images/8-2000x1500.jpg");
+  background: linear-gradient(45deg, #000000, #000000);
 }
 @media (min-width: 992px) {
   .cid-r5pzMVo5WC .mbr-figure {
