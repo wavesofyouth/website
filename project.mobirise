@@ -6674,11 +6674,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r5vAijWV49",
+          "_anchor": "menu1-80",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-80"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6711,11 +6711,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r5vAikEY9E",
+          "_anchor": "header2-81",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header2-81"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6807,11 +6807,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "r5vAilbGHL",
+          "_anchor": "footer5-82",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "footer5-82"
+          "_params": {}
         }
       ]
     }
