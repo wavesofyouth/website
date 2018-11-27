@@ -7198,23 +7198,17 @@ body {
 .cid-r5CaGCmqon .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-r5CaGD29A4 {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-color: #263f8c;
+.cid-raCzECvdgC {
+  background: #000000;
 }
-.cid-r5CaGD29A4 H1 {
-  text-align: left;
+.cid-raCzECvdgC .video-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-r5CaGD29A4 H3 {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-r5CaGD29A4 P {
-  text-align: center;
-}
-.cid-r5CaGD29A4 DIV {
-  text-align: left;
+@media (max-width: 768px) {
+  .cid-raCzECvdgC .video-block {
+    width: 100% !important;
+  }
 }
 .cid-r5CaGDFXay {
   padding-top: 30px;
