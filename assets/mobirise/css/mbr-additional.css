@@ -4221,35 +4221,28 @@ body {
 .cid-rbPSnj8Zxy .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-rbX0XCjcuH {
-  background-image: url("../../../assets/images/still-16-1440x1088.jpg");
+.cid-rbX465XgOZ {
+  background: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-rbX0XCjcuH .mbr-figure {
-    padding-left: 4rem;
+.cid-rbX465XgOZ .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rbX465XgOZ .video-block {
+    width: 100% !important;
   }
 }
-@media (max-width: 991px) {
-  .cid-rbX0XCjcuH .mbr-figure {
-    padding-top: 3rem;
-  }
+.cid-rbX4nZHI5c {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #263f8c;
 }
-.cid-rbX0XCjcuH .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+.cid-rbX4nZHI5c H1 {
+  color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-rbX0XCjcuH .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
-.cid-rbX0XCjcuH .mbr-section-title {
-  text-align: left;
-}
-.cid-rbX0XCjcuH .mbr-text,
-.cid-rbX0XCjcuH .mbr-section-btn {
-  text-align: left;
+.cid-rbX4nZHI5c H3 {
+  color: #cccccc;
 }
 .cid-r5md9rRWN4 {
   background: linear-gradient(45deg, #efefef, #efefef);
