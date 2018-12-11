@@ -4221,17 +4221,35 @@ body {
 .cid-rbPSnj8Zxy .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-rbV96sARWC {
-  background: #000000;
+.cid-rbVcscuLU9 {
+  background-image: url("../../../assets/images/img-4613-copia-2000x1333.jpg");
 }
-.cid-rbV96sARWC .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rbV96sARWC .video-block {
-    width: 100% !important;
+@media (min-width: 992px) {
+  .cid-rbVcscuLU9 .mbr-figure {
+    padding-left: 4rem;
   }
+}
+@media (max-width: 991px) {
+  .cid-rbVcscuLU9 .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rbVcscuLU9 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rbVcscuLU9 .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
+.cid-rbVcscuLU9 .mbr-section-title {
+  text-align: left;
+}
+.cid-rbVcscuLU9 .mbr-text,
+.cid-rbVcscuLU9 .mbr-section-btn {
+  text-align: left;
 }
 .cid-r5md9rRWN4 {
   background: linear-gradient(45deg, #efefef, #efefef);
