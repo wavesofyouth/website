@@ -5889,8 +5889,6 @@ body {
   color: #cccccc !important;
 }
 .cid-r5vAikEY9E {
-  padding-top: 135px;
-  padding-bottom: 135px;
   background-image: url("../../../assets/images/000025-2-2000x2997.jpg");
 }
 .cid-r5vAikEY9E H1 {
@@ -5904,6 +5902,10 @@ body {
   text-align: center;
 }
 .cid-r5vAikEY9E DIV {
+  text-align: left;
+}
+.cid-r5vAikEY9E .mbr-text,
+.cid-r5vAikEY9E .mbr-section-btn {
   text-align: left;
 }
 .cid-rbPz0tIIqq {
