@@ -1288,7 +1288,13 @@ body {
   display: none;
 }
 .cid-qVMI4pf1Yo {
-  background-image: url("../../../assets/images/still-19-1440x1088.jpg");
+  background-image: url("../../../assets/images/still-4-1440x1088.jpg");
+}
+.cid-qVMI4pf1Yo H1 {
+  text-align: center;
+}
+.cid-qVMI4pf1Yo H3 {
+  text-align: center;
 }
 .cid-rbPSvJKH3Y .navbar {
   padding: .5rem 0;
