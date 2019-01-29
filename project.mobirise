@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Waves Of Youth",
-    "currentPage": "statement.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -102,12 +102,14 @@
     "noImageResize": "",
     "google-analytics": "<!-- Chrome, Firefox OS and Opera -->\r\n<meta name=\"theme-color\" content=\"#263F8C\">\r\n<!-- Windows Phone -->\r\n<meta name=\"msapplication-navbutton-color\" content=\"#263F8C\">\r\n<!-- iOS Safari -->\r\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#263F8C\">",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "404.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — 404",
         "order": 12
       },
@@ -2743,7 +2745,7 @@
       "settings": {
         "main": true,
         "title": "Waves Of Youth",
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -3290,7 +3292,7 @@
     },
     "ondemand.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand",
         "order": 7
       },
@@ -3929,7 +3931,7 @@
     "1575114.html": {
       "settings": {
         "title": "Waves Of Youth — Aegean (Screener)",
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4094,7 +4096,7 @@
     },
     "filmes.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Filmes",
         "order": 6
       },
@@ -4690,7 +4692,7 @@
     },
     "contacta-nos.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Contacta-nos",
         "order": 11
       },
@@ -5278,7 +5280,7 @@
     "en.html": {
       "settings": {
         "title": "Waves Of Youth — English",
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -5327,7 +5329,7 @@
     "statement.html": {
       "settings": {
         "title": "Waves Of Youth — Right Here, Right Now.",
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -5882,7 +5884,7 @@
     "righthererightnow.html": {
       "settings": {
         "title": "Right Here, Right Now.",
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -6465,7 +6467,7 @@
     "woy1575114.html": {
       "settings": {
         "title": "Waves Of Youth — Aegean (Screener II)",
-        "meta_descr": "",
+        "meta_descr": "Colectivo da Nova Geração.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
