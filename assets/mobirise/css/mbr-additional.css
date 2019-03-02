@@ -4154,7 +4154,7 @@ body {
   color: #cccccc !important;
 }
 .cid-reyrRwCWxZ {
-  background-image: url("../../../assets/images/4-2000x1134.jpg");
+  background-image: url("../../../assets/images/vlcsnap-2018-12-23-21h57m28s919-2000x1134.png");
 }
 .cid-r5md9rRWN4 {
   background: linear-gradient(45deg, #efefef, #efefef);
@@ -6306,30 +6306,6 @@ body {
 .cid-rbX1Qk2ocj .links A {
   color: #263f8c;
 }
-.cid-rcBuucmdMu {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #263f8c;
-}
-.cid-rcBuucmdMu H2 {
-  text-align: center;
-}
-.cid-rcBuucmdMu .mbr-section-subtitle {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-raCzECvdgC {
-  background: #000000;
-}
-.cid-raCzECvdgC .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-raCzECvdgC .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rgJKFT5zud .navbar {
   padding: .5rem 0;
   background: #263f8c;
@@ -6845,4 +6821,28 @@ body {
 }
 .cid-rgJKAqdkjy .links A {
   color: #263f8c;
+}
+.cid-rcBuucmdMu {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #263f8c;
+}
+.cid-rcBuucmdMu H2 {
+  text-align: center;
+}
+.cid-rcBuucmdMu .mbr-section-subtitle {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-raCzECvdgC {
+  background: #000000;
+}
+.cid-raCzECvdgC .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-raCzECvdgC .video-block {
+    width: 100% !important;
+  }
 }
