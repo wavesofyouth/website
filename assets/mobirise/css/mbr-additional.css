@@ -7988,11 +7988,16 @@ body {
 .cid-reyp9uO6G9 .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-reyrRwCWxZ {
+.cid-rrvOEFM8MM {
+  padding-top: 135px;
+  padding-bottom: 90px;
   background-color: #263f8c;
 }
-.cid-reyrRwCWxZ H1 {
-  text-align: center;
+.cid-rrvOEFM8MM P {
+  color: #767676;
+}
+.cid-rrvOEFM8MM H1 {
+  color: #ffffff;
 }
 .cid-rrvM4KKhyu {
   padding-top: 105px;
@@ -8001,6 +8006,9 @@ body {
 }
 .cid-rrvM4KKhyu P {
   color: #767676;
+}
+.cid-rrvM4KKhyu H1 {
+  color: #232323;
 }
 .cid-rrvM443fLZ {
   background: #ffffff;
