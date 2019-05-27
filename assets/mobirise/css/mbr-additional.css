@@ -3778,10 +3778,21 @@ body {
 .cid-rrIi7erXAO .mbr-figure-caption div {
   text-align: center;
 }
-.cid-rnnjrZ3Jmj {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-rrIr5C725h {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #263f8c;
+}
+.cid-rrIr5C725h P {
+  color: #767676;
+}
+.cid-rrIr5C725h H1 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rrIr5C725h .mbr-text,
+.cid-rrIr5C725h .mbr-section-btn B {
+  color: #ffffff;
 }
 .cid-rgxpqcjOt9 {
   padding-top: 30px;
@@ -6291,11 +6302,6 @@ body {
 }
 .cid-r41RlDEQui .card-title B {
   color: #263f8c;
-}
-.cid-rnnjrZ3Jmj {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
 }
 .cid-rgxpqcjOt9 {
   padding-top: 30px;
