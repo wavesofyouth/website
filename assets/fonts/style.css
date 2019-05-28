@@ -2,3 +2,7 @@
    font-family: 'RobotoCondensed-Bold';
    src: url('RobotoCondensed-Bold/font.ttf');
 }
+@font-face {
+   font-family: 'Roboto-Medium';
+   src: url('Roboto-Medium/font.ttf');
+}
