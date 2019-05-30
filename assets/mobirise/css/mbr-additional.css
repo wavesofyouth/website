@@ -14,14 +14,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'RobotoCondensed-Bold';
+  font-family: 'Roboto-Black';
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'RobotoCondensed-Bold';
+  font-family: 'Roboto-Black';
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
