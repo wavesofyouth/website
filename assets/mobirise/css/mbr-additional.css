@@ -1333,12 +1333,12 @@ body {
 }
 .cid-rbPSvJKH3Y .navbar {
   padding: .5rem 0;
-  background: #0d0d0d;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-rbPSvJKH3Y .navbar-dropdown.bg-color.transparent.opened {
-  background: #0d0d0d;
+  background: #000000;
 }
 .cid-rbPSvJKH3Y a {
   font-style: normal;
@@ -1422,7 +1422,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rbPSvJKH3Y .dropdown .dropdown-menu {
-  background: #0d0d0d;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4361,12 +4361,12 @@ body {
 }
 .cid-rbPSpZp92C .navbar {
   padding: .5rem 0;
-  background: #0d0d0d;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-rbPSpZp92C .navbar-dropdown.bg-color.transparent.opened {
-  background: #0d0d0d;
+  background: #000000;
 }
 .cid-rbPSpZp92C a {
   font-style: normal;
@@ -4450,7 +4450,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rbPSpZp92C .dropdown .dropdown-menu {
-  background: #0d0d0d;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
