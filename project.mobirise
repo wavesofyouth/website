@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Waves Of Youth",
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -137,7 +137,7 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/w1-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<!-- Chrome, Firefox OS and Opera -->\r\n<meta name=\"theme-color\" content=\"#263F8C\">\r\n<!-- Windows Phone -->\r\n<meta name=\"msapplication-navbutton-color\" content=\"#263F8C\">\r\n<!-- iOS Safari -->\r\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#263F8C\">",
+    "google-analytics": "<!-- Chrome, Firefox OS and Opera -->\r\n<meta name=\"theme-color\" content=\"#000000\">\r\n<!-- Windows Phone -->\r\n<meta name=\"msapplication-navbutton-color\" content=\"#000000\">\r\n<!-- iOS Safari -->\r\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#000000\">",
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined"
