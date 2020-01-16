@@ -1,4 +1,5 @@
 @font-face {
    font-family: 'HelveticaNowText-Bold';
-   src: url('file:///Users/tomascunha/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2019-01-29_103317/fonts/HelveticaNowText-Bold/font.ttf');
+   font-display: swap;
+   src: url('file:///Users/tomasbcunha/Downloads/website-gh-pages/fonts/HelveticaNowText-Bold/font.ttf');
 }

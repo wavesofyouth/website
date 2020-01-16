@@ -597,7 +597,8 @@ blockquote {
 .lazy-bg {
   background-image: none !important;
 }
-.lazy-placeholder:not(section) {
+.lazy-placeholder:not(section),
+.lazy-none {
   display: block;
   position: relative;
   padding-bottom: 56.25%;
@@ -4770,7 +4771,7 @@ section.lazy-placeholder:after {
 }
 .cid-rrLhIhZPSu {
   padding-top: 0px;
-  padding-bottom: 75px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rrLhIhZPSu h2 {
@@ -4826,6 +4827,66 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rrLhIhZPSu .card-title DIV {
+  color: #232323;
+}
+.cid-rNJU9QRRd8 {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rNJU9QRRd8 h2 {
+  margin-bottom: 0;
+}
+.cid-rNJU9QRRd8 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-rNJU9QRRd8 p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rNJU9QRRd8 .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rNJU9QRRd8 .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-rNJU9QRRd8 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rNJU9QRRd8 .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-rNJU9QRRd8 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rNJU9QRRd8 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-rNJU9QRRd8 .card-title {
+  color: #232323;
+}
+.cid-rNJU9QRRd8 .card-title P {
+  color: #232323;
+}
+.cid-rNJU9QRRd8 H2 {
+  text-align: center;
+  color: #000000;
+}
+.cid-rNJU9QRRd8 P {
+  color: #767676;
+}
+.cid-rNJU9QRRd8 .card-title DIV {
   color: #232323;
 }
 .cid-rt7rZqpEoy {
@@ -7792,7 +7853,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rDE70bHvAw {
-  background-image: url("../../../assets/images/-dsc1350-2000x1230.jpg");
+  background-image: url("../../../assets/images/dsc1350-2000x1230.jpg");
 }
 .cid-rDE70bHvAw .mbr-text,
 .cid-rDE70bHvAw .mbr-section-btn {
