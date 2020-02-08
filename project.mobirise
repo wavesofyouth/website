@@ -162,7 +162,7 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/w1-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<!-- Chrome, Firefox OS and Opera -->\n<meta name=\"theme-color\" content=\"#000000\">\n<!-- Windows Phone -->\n<meta name=\"msapplication-navbutton-color\" content=\"#000000\">\n<!-- iOS Safari -->\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#000000\">\n@media only screen \nand (min-device-width : 320px) \nand (max-device-width : 480px) {\n   body {\n      background: #bc2731 !important;\n  }\n}",
+    "google-analytics": "<!-- Chrome, Firefox OS and Opera -->\n<meta name=\"theme-color\" content=\"#000000\">\n<!-- Windows Phone -->\n<meta name=\"msapplication-navbutton-color\" content=\"#000000\">\n<!-- iOS Safari -->\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#000000\">",
     "siteUrl": "undefined",
     "": "on",
     "robotsSwitcher": false,
