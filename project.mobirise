@@ -1,13 +1,13 @@
 {
   "settings": {
     "name": "Waves Of Youth",
-    "currentPage": "umpunkchamadoribas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#ffffff",
-        "secondaryColor": "#263f8c",
+        "secondaryColor": "#bc2731",
         "successColor": "#263f8c",
         "infoColor": "#ffffff",
         "warningColor": "#767676",
@@ -162,14 +162,14 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/w1-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<!-- Chrome, Firefox OS and Opera -->\r\n<meta name=\"theme-color\" content=\"#000000\">\r\n<!-- Windows Phone -->\r\n<meta name=\"msapplication-navbutton-color\" content=\"#000000\">\r\n<!-- iOS Safari -->\r\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#000000\">",
+    "google-analytics": "<!-- Chrome, Firefox OS and Opera -->\n<meta name=\"theme-color\" content=\"#000000\">\n<!-- Windows Phone -->\n<meta name=\"msapplication-navbutton-color\" content=\"#000000\">\n<!-- iOS Safari -->\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#000000\">\n@media only screen \nand (min-device-width : 320px) \nand (max-device-width : 480px) {\n   body {\n      background: #bc2731 !important;\n  }\n}",
     "siteUrl": "undefined",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
-    "cookiesAlert": "",
-    "gdpr": "",
+    "cookiesAlert": false,
+    "gdpr": false,
     "imageResize": true
   },
   "pages": {
