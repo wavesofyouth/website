@@ -9653,12 +9653,11 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rTolAiQsD1 {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 45px;
+  background: #000000;
 }
 .cid-rTolAiQsD1 .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rTolAiQsD1 .video-block {
