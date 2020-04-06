@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Waves Of Youth",
-    "currentPage": "od-gohome.html",
+    "currentPage": "051721091601.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -157,7 +157,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 603,
+    "uniqCompNum": 606,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/w1-128x128.png",
@@ -177,7 +177,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — 404",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -621,7 +621,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Egeu",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -1430,7 +1430,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Waves Of Youth — Fake Empire",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2190,7 +2190,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Go Home",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2950,7 +2950,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Filmes",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -3672,7 +3672,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Contacta-nos",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -4266,7 +4266,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -5269,7 +5269,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Outros Projetos",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -5908,7 +5908,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Um Punk Chamado Ribas",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -6742,7 +6742,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -7473,7 +7473,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand — Go Home",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -8089,7 +8089,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand — Fake Empire",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -8705,7 +8705,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand — Eu, Por Ti, Quem Era?",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -9324,7 +9324,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -9763,7 +9763,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — News",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -10406,7 +10406,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand — Egeu",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -11022,7 +11022,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand — Um Punk Chamado Ribas",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -11631,6 +11631,47 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "051721091601.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Waves Of Youth — Tonight (Screener)",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @bgColor, @color2)"
+            },
+            ".video-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".video-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "video3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"8\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"8\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#000000\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://vimeo.com/397967573?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
+          "_cid": "rVo2Gg25T8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "video3-gt"
         }
       ]
     }

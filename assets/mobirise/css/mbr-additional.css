@@ -10204,3 +10204,16 @@ section.lazy-placeholder:after {
 .cid-rTCe9oi4lL .links A {
   color: #263f8c;
 }
+.cid-rVo2Gg25T8 {
+  background: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.cid-rVo2Gg25T8 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rVo2Gg25T8 .video-block {
+    width: 100% !important;
+  }
+}
