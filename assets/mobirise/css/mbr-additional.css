@@ -10204,3 +10204,95 @@ section.lazy-placeholder:after {
 .cid-rTCe9oi4lL .links A {
   color: #263f8c;
 }
+.cid-rVAXqGppsy {
+  background: #000000;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.cid-rVAXqGppsy .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rVAXqGppsy .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rVAXwXINzi {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rVAXwXINzi .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rVAXwXINzi .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-rVAXwXINzi .media-wrap img {
+  height: 6rem;
+}
+.cid-rVAXwXINzi .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-rVAXwXINzi .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rVAXwXINzi .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-rVAXwXINzi .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-rVAXwXINzi .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-rVAXwXINzi .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rVAXwXINzi .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rVAXwXINzi .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rVAXwXINzi .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-rVAXwXINzi .links {
+  color: #263f8c;
+}
+.cid-rVAXwXINzi .copyright > p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rVAXwXINzi .links B {
+  color: #263f8c;
+}
+.cid-rVAXwXINzi .copyright > p I {
+  color: #263f8c;
+}
+.cid-rVAXwXINzi .links A {
+  color: #263f8c;
+}
