@@ -10206,11 +10206,10 @@ section.lazy-placeholder:after {
 }
 .cid-rVo2Gg25T8 {
   background: #bc2731;
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 .cid-rVo2Gg25T8 .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rVo2Gg25T8 .video-block {
