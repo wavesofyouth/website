@@ -4054,19 +4054,24 @@ section.lazy-placeholder:after {
 .cid-rP6d5zO9cL .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-s1eroDAFUP {
-  background-image: url("../../../assets/images/48598e69215843.5b79439296c6d-2000x3000.jpg");
+.cid-s7atyEjNSj {
+  background-image: url("../../../assets/images/dsc01109-2000x3000.jpg");
 }
-.cid-s1eroDAFUP H1 {
-  text-align: center;
-  color: #ffffff;
+.cid-s7atyEjNSj .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-s1eroDAFUP H3 {
-  text-align: center;
-  color: #ffffff;
+.cid-s7atyEjNSj .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
 }
-.cid-s1eroDAFUP P {
-  text-align: center;
+@media (max-width: 991px) {
+  .cid-s7atyEjNSj .mbr-figure img {
+    width: 100% !important;
+  }
 }
 .cid-rP6d5zO9cL .navbar {
   padding: .5rem 0;
