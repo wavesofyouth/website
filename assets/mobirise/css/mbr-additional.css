@@ -9653,3 +9653,15 @@ section.lazy-placeholder:after {
 .cid-s7hxBxjzUM .links A {
   color: #263f8c;
 }
+.cid-s7GqBTzch5 {
+  background: #ffffff;
+}
+.cid-s7GqBTzch5 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s7GqBTzch5 .video-block {
+    width: 100% !important;
+  }
+}

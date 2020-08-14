@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Waves Of Youth",
-    "currentPage": "streaming.html",
+    "currentPage": "woytng815ind.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -163,7 +163,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 702,
+    "uniqCompNum": 711,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/w1-128x128.png",
@@ -183,7 +183,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — 404",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -627,7 +627,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Egeu",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1238,7 +1238,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Waves Of Youth — Fake Empire",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1836,7 +1836,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Go Home",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3202,7 +3202,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Contacta-nos",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3796,7 +3796,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -4805,7 +4805,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Outros Projetos",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5444,7 +5444,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Um Punk Chamado Ribas",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -6042,7 +6042,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — On Demand",
-        "order": 10,
+        "order": 11,
         "meta_image": "@PROJECT_PATH@/assets/images/captura-de-ecra-2018-06-28-as-14.22.14-1066x8001.png"
       },
       "components": [
@@ -6915,7 +6915,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -8046,7 +8046,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — A Eternidade e Uma Noite",
-        "order": 5,
+        "order": 6,
         "meta_image": "@PROJECT_PATH@/assets/images/cover_a-2000x1333.jpg"
       },
       "components": [
@@ -8661,7 +8661,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -9100,7 +9100,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Download",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -9691,7 +9691,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Primeira Classe",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -10289,7 +10289,7 @@
       "settings": {
         "meta_descr": "Colectivo da Nova Geração.",
         "title": "Waves Of Youth — Streaming",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -10317,11 +10317,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s7hxBwhqTG",
+          "_anchor": "header16-je",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header16-je"
+          "_params": {}
         },
         {
           "_styles": {
@@ -10365,11 +10365,11 @@
           "_name": "form1",
           "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/000027-1-2000x2997.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">CONTACTA-NOS</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\">Insere os teus dados para receberes o filme no teu e-mail.</h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                    <div data-form-alert hidden>Obrigado. O filme será enviado para o teu e-mail nas próximas 24 horas úteis.</div>\n            \n                    <form class=\"mbr-form\" action=\"hello@wavesofyouth.pt\" method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"row row-sm-offset\">\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"name\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-4\" for=\"name\">NOME</label>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" data-form-field=\"Name\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"email\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-4\" for=\"email\">E-MAIL</label>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" data-form-field=\"Email\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"phone\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-4\" for=\"phone\">Nº SÓCIO</label>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\">\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"form-group\" data-for=\"message\">\n                            <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-4\" for=\"message\">FILME</label>\n                            <textarea type=\"text\" class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\"></textarea>\n                        </div>\n            \n                        <span mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn\"><a href type=\"submit\" class=\"btn btn-form btn-danger-outline\" data-app-placeholder=\"Type Text\">ENVIAR</a></span>\n                    </form>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s7hxBwFDag",
+          "_anchor": "form1-jf",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "form1-jf"
+          "_params": {}
         },
         {
           "_styles": {
@@ -10772,11 +10772,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s7hxBwZVm5",
+          "_anchor": "menu1-jg",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-jg"
+          "_params": {}
         },
         {
           "_styles": {
@@ -10868,11 +10868,52 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s7hxBxjzUM",
+          "_anchor": "footer5-jh",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "woytng815ind.html": {
+      "settings": {
+        "meta_descr": "Colectivo da Nova Geração.",
+        "title": "Waves Of Youth — Screener",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".video-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".video-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "video2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://vimeo.com/397967573?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
+          "_cid": "s7GqBTzch5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "footer5-jh"
+          "_anchor": "video2-jq"
         }
       ]
     }
