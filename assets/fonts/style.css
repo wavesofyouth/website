@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('HelveticaNowDisplay-Black/font.ttf');
 }
+@font-face {
+   font-family: 'HelveticaNowDisplay-Regular';
+   font-display: swap;
+   src: url('HelveticaNowDisplay-Regular/font.ttf');
+}
