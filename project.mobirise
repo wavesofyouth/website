@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-15_1601",
+    "name": "Waves Of Youth",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -51,6 +51,13 @@
       }
     ],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/curto-preto-branco-128x128.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.1.4"
   },
